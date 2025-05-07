@@ -1,5 +1,6 @@
 Rock VS Mine Prediction is a very easy to do project of Machine Learning.
 I started my journey of ML by finishing this small project.
+<br>
   1. first it import dependencies
   2. Collect data and process it (loading data to a pandas Dataframe)
   3. figure out the number of rows and colums
@@ -9,5 +10,6 @@ I started my journey of ML by finishing this small project.
   7. accurecy and training
   8. accurecy of test data
   9. Make a Predictive System
+<br>
 These are the steps of completing the project.
 It was fun doing this project and i'm now more motivated to do such ML projects more.
